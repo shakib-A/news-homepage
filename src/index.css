@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    padding: 2rem 4rem;
+    position: relative;
+}
